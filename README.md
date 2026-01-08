@@ -1,14 +1,18 @@
 ¡Hola! Soy Leonela Rodríguez Tapias 👋
 
-Desarrolladora en formación, apasionada por frontend y UX, creando soluciones web desde Mérida, Venezuela.
+Desarrolladora frontend con enfoque en UX, creando interfaces claras y funcionales desde Mérida, Venezuela.
+
+                (\_/),
+               (='.'=)  
+               (")_(")  → Follow the white rabbit...
 
 🎯 | Mi enfoque
-💻 | Frontend**: HTML, CSS, JavaScript | Diseño responsivo y accesible.
-🎨 | UX: Interfaz centrada en las personas, clara y sencilla.
-📱 | Marketing Digital: También trabajo mi marca personal en [@tapiasmarketing](https://www.instagram.com/tapiasmarketing/).
+💻 | Frontend: HTML, CSS y JavaScript, maquetación limpia, responsiva y accesible.
+🎨 | UX: Interfaces centradas en las personas, simples de entender y agradables de usar.
+📱 | 📱 Marketing digital: Desarrollo mi marca personal en [@tapiasmarketing](https://www.instagram.com/tapiasmarketing/) para comunicar mejor lo que construyo.
 
-📚 | Aprendiendo
-⛅ | Cada día practico con pequeños proyectos para dominar:
+📚 | Cómo me estoy formando
+⛅ | Practico a diario con proyectos pequeños orientados a resolver problemas reales.
 🖥️ | HTML semántico y CSS moderno
 🖥️ | JavaScript vanilla
 📲 | Diseño responsivo y mobile-first
