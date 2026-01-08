@@ -2,9 +2,9 @@
 
 Desarrolladora frontend con enfoque en UX, creando interfaces claras y funcionales desde Mérida, Venezuela.
 
-                (\_/),
-               (='.'=)  
-               (")_(")  → Follow the white rabbit...
+      (\_/),
+     (='.'=)  
+     (")_(")  → Follow the white rabbit...
 
 🎯 | Mi enfoque
 💻 | Frontend: HTML, CSS y JavaScript, maquetación limpia, responsiva y accesible.
