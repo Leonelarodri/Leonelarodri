@@ -1,4 +1,4 @@
-¡Hola! Soy Leonela Rodríguez Tapias 👋
+¡Hola! Soy Leonela Rodríguez de Tapias 👋
 
 Desarrolladora frontend con enfoque en UX, creando interfaces claras y funcionales desde Mérida, Venezuela.
 
